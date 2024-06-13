@@ -1,6 +1,6 @@
 import unittest
 from python_conversion import *
-from TestUtils import TestUtils
+from test.TestUtils import TestUtils
 
 class PythonConversionTests(unittest.TestCase):
 

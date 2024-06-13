@@ -1,5 +1,5 @@
-from TestResults import TestResults
-from TestCaseResultDto import TestCaseResultDto
+from test.TestResults import TestResults
+from test.TestCaseResultDto import TestCaseResultDto
 import json
 import requests
 
